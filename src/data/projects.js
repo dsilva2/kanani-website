@@ -26,12 +26,12 @@ export const projects = [
               "CAD view of the PDD, highlighting the slit to attach the mechanism to the military belt, and the angled bottom piece that can target the subclavian artery without pushing into the collarbone.",
           },
           {
-            image: "/projects/junctional-hemorrhage-device/tryout-on-belt.jpeg",
+            image: "/projects/junctional-hemorrhage-device/tryout-on-belt.png",
             caption:
               "Try-on of the junctional tourniquet assembly attached to a military belt and applied to the neck.",
           },
           {
-            image: "/projects/junctional-hemorrhage-device/assembly-on-person.jpeg",
+            image: "/projects/junctional-hemorrhage-device/assembly-on-person.png",
             caption:
               "View of the entire assembly, with a closer view of the 3D printed PDD (in grey).",
           },
